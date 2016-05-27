@@ -1,0 +1,9 @@
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\XMLGenerator\bin\Debug\XMLGenerator.exe.config
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\XMLGenerator\bin\Debug\XMLGenerator.exe
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\XMLGenerator\bin\Debug\XMLGenerator.pdb
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\XMLGenerator\obj\Debug\XMLGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\XMLGenerator\obj\Debug\XMLGenerator.Form1.resources
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\XMLGenerator\obj\Debug\XMLGenerator.Properties.Resources.resources
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\XMLGenerator\obj\Debug\XMLGenerator.csproj.GenerateResource.Cache
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\XMLGenerator\obj\Debug\XMLGenerator.exe
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\XMLGenerator\obj\Debug\XMLGenerator.pdb

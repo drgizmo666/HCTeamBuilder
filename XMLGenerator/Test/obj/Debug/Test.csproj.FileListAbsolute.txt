@@ -1,0 +1,8 @@
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\Test\bin\Debug\Test.exe.config
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\Test\bin\Debug\Test.exe
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\Test\bin\Debug\Test.pdb
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\Test\bin\Debug\XMLGenerator.exe
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\Test\bin\Debug\XMLGenerator.pdb
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\Test\obj\Debug\Test.exe
+C:\Users\Gizmo\Documents\GitHub\HCTeamBuilder\XMLGenerator\Test\obj\Debug\Test.pdb
